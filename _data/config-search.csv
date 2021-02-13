@@ -1,0 +1,5 @@
+field,index,display
+title,true,true
+date,true,true
+author,true,false
+citation,true,false
