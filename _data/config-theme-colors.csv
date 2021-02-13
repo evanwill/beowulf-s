@@ -7,3 +7,5 @@ warning,
 danger,
 light,
 dark,
+ms-dark,#5b2109
+ms-light,#e7d0b1
