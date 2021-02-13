@@ -12,13 +12,13 @@ layout: page
   </div>
   <div class="col-md-4">  
 
-    {% include index/time.html %}
+    {% include index/featured-terms.html field="language_display" title="Translation Language" btn-color="outline-info" max="9" %}
 
-    {% include index/featured-terms.html field="language_display" title="Translation Language" btn-color="info" %}
-
-    {% include index/featured-terms.html field="category" title="Category" btn-color="outline-secondary" %}
+    {% include index/featured-terms.html field="category" title="Category" btn-color="outline-secondary" max="9" %}
     
     {% include index/objects.html %}
+
+    {% include index/time.html %}
 
   </div>
   <div class="col-md-12">

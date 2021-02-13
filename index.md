@@ -5,7 +5,7 @@ title: Home
 
 # Beowulf-s
 
-The `beowulf-s` project presents the content of Chauncey B. Tinker's *The Translations of Beowulf: A Critical Bibliography* (1903) as a digital collection to explore the texts along side his introductions, extracts, and criticism.
+The `beowulf-s` project presents the content of Chauncey B. Tinker's *The Translations of Beowulf: A Critical Bibliography* (1903) as a digital collection of his introductions, extracts, and criticism to explore along side links to digitized texts.
 
 <div class="text-center">
     <figure class="figure d-block">
@@ -14,5 +14,3 @@ The `beowulf-s` project presents the content of Chauncey B. Tinker's *The Transl
         </a>
     </figure>
 </div>
-
-<a class="btn btn-info" href="{{ '/about.html' | relative_url }}" role="button">Learn More &raquo;</a>
