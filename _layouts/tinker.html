@@ -7,7 +7,7 @@ item-meta: true
     <ul class="breadcrumb">
         <li class="breadcrumb-item"><a href="{{ '/' | relative_url }}">Home</a></li>
         <li class="breadcrumb-item"><a href="{{ '/browse.html' | relative_url }}">Texts</a></li>
-        <li class="breadcrumb-item active">{{ page.author | truncatewords: 10 }}</li>
+        <li class="breadcrumb-item active">{{ page.author | default: page.title | truncatewords: 10 }}</li>
     </ul>
 
     <div class="card my-4">
