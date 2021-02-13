@@ -33,7 +33,7 @@ function makeCard(obj) {
     card += '</p>';
     // digitized available 
     
-    if(obj.format != "") {
+    if(obj.format == "application/pdf") {
         card += '<p class="card-text"><small><a class="btn btn-sm btn-outline-secondary" href="{{ "/browse.html" | relative_url }}#' + encodeURIComponent(obj.format) + '">Text Available <svg class="bi icon-sprite"><use xlink:href="{{ "/assets/lib/bootstrap-icons.svg" | relative_url }}#book"/></svg></a></small></p>';
     }
     // view button

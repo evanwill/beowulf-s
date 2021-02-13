@@ -1,5 +1,5 @@
 objectid,category,author,title,date,language,language_display,tinker_review_title,citation,description,introduction,extract,criticism,footnotes,text_links,text_links_pipe,text_internet_archive,book_search,format,object_template
-forward_ms,Manuscript,,MS. Cotton Vitellius A. xv,0975,old english,Old English,Preliminary Remarks on the Beowulf Manuscript,"MS Cotton Vitellius A.xv, British Library, London",Manuscript,"<p>The unique manuscript of the
+forward_ms,Manuscript,,MS. Cotton Vitellius A. xv,975,old english,Old English,Preliminary Remarks on the Beowulf Manuscript,"MS Cotton Vitellius A.xv, British Library, London",Manuscript,"<p>The unique manuscript of the
 <i>Beowulf</i> is preserved in the Cottonian Library of the British
 Museum. It is contained in the folio designated Cotton Vitellius A. xv,
 where it occurs ninth in order, filling the folios numbered 129a to
@@ -1737,7 +1737,7 @@ See supra, <a href=""#trans_kemble"">p. 33</a>.</p>
 
 <p>
 <a name=""note_ettmuller6"" id=""note_ettmuller6"" href=""#tag_ettmuller6"">6.</a>
-See infra, <a href=""#trans_thorpe"">p. 49</a>.</p>",,,,"Ettmüller, L. Beowulf. Heldengedicht des achten Jahrhunderts 1840",,tinker
+See infra, <a href=""#trans_thorpe"">p. 49</a>.</p>",,,,"Ettmüller, L. Beowulf. Heldengedicht des achten Jahrhunderts 1840",citation,tinker
 trans_schaldemose,Translations,"Schaldemose, F.","Beo-wulf og Scopes Widsið, to angelsaxiske Digte",1847,dan,Danish,Schaldemose’s Translation,"<p>Beo-wulf og Scopes <ins class=""correction"" title=""letter ‘edh’ printed as d with bar"">Widsið</ins>, to angelsaxiske Digte, med
 Oversættelse og oplysende Anmærkninger udgivne af Frederik Schaldemose.
 Kjøbenhavn, 1847.</p>
@@ -1892,7 +1892,7 @@ See supra, <a href=""#trans_thorkelin"">p. 15</a>.</p>
 <p>
 <a name=""note_schaldemose6"" id=""note_schaldemose6"" href=""#tag_schaldemose6"">6.</a>
 See Wülker, <i>Ang. Anz.</i> IV, 69; Wackerbarth’s ed. (see infra,
-<a href=""#trans_wackerbarth"">p.&nbsp;45</a>).</p>",,,,"Schaldemose, F. Beo-wulf og Scopes Widsið, to angelsaxiske Digte 1847",,tinker
+<a href=""#trans_wackerbarth"">p.&nbsp;45</a>).</p>",,,,"Schaldemose, F. Beo-wulf og Scopes Widsið, to angelsaxiske Digte 1847",citation,tinker
 trans_wackerbarth,Translations,"Wackerbarth, A. D.","Beowulf, an epic poem translated from the Anglo-Saxon into English verse",1849,eng,English,Wackerbarth’s Translation,"<p>Beowulf, an epic poem translated from the Anglo-Saxon into English
 verse, by A. Diedrich Wackerbarth, A.B., Professor of Anglo-Saxon at the
 College of our Ladye of Oscott. London: William Pickering, 1849.
@@ -2610,7 +2610,7 @@ See supra, <a href=""#trans_thorpe_comp"">p. 52</a>.</p>
 <p>
 <a name=""note_grein4"" id=""note_grein4"" href=""#tag_grein4"">4.</a>
 The second edition presents no variation from this save the omission of
-the comma in line 501.</p>",,,,"Grein, C. W. M. Dichtungen der Angelsachsen 1863",,tinker
+the comma in line 501.</p>",,,,"Grein, C. W. M. Dichtungen der Angelsachsen 1863",citation,tinker
 trans_simrock,Translations,"Simrock, K.",Beowulf. Das älteste deutsche Epos,1859,deu,German,Simrock’s Translation,"<p>Beowulf. Das älteste deutsche Epos. Uebersetzt und erläutert von Dr.
 Karl Simrock. Stuttgart und Augsburg: J. G. Cotta’scher Verlag, 1859.
 8<sup>o</sup>, pp. iv, 203.</p>",Third German Translation. Imitative Measures.,"<h5>Simrock.</h5>
@@ -2760,7 +2760,7 @@ See infra, <a href=""#trans_hoffmann"">p. 99</a>.</p>
 
 <p>
 <a name=""note_simrock4"" id=""note_simrock4"" href=""#tag_simrock4"">4.</a>
-See supra, <a href=""#trans_grein_texts"">p. 56</a>.</p>",,,,"Simrock, K. Beowulf. Das älteste deutsche Epos 1859",,tinker
+See supra, <a href=""#trans_grein_texts"">p. 56</a>.</p>",,,,"Simrock, K. Beowulf. Das älteste deutsche Epos 1859",citation,tinker
 trans_heyne,Translations,"Heyne, M.",Beowulf. Angelsächsisches Heldengedicht,1863,deu,German,Heyne’s Translation,"<p>Beowulf. Angelsächsisches Heldengedicht übersetzt von Moritz Heyne.
 Paderborn: Druck und Verlag von Ferd. Schöningh, 1863. 12<sup>o</sup>,
 pp. viii, 127.</p>
@@ -2959,7 +2959,7 @@ See supra, <a href=""#trans_simrock"">p. 59</a>.</p>
 
 <p>
 <a name=""note_heyne8"" id=""note_heyne8"" href=""#tag_heyne8"">8.</a>
-See supra, <a href=""#trans_grein"">p. 55</a>.</p>",,,,"Heyne, M. Beowulf. Angelsächsisches Heldengedicht 1863",,tinker
+See supra, <a href=""#trans_grein"">p. 55</a>.</p>",,,,"Heyne, M. Beowulf. Angelsächsisches Heldengedicht 1863",citation,tinker
 trans_wolzogen,Translations,"von Wolzogen, H.",Beovulf (Bärwelf). Das älteste deutsche Heldengedicht,1872,deu,German,Von Wolzogen’s Translation,"<p>Beovulf (Bärwelf). Das älteste deutsche Heldengedicht. Aus dem
 Angelsächsischen von Hans von Wolzogen. Leipzig: Philipp Reclam, jun.
 (1872?).</p>
@@ -3111,7 +3111,7 @@ See Vorbemerkung, p. 3.</p>
 <p>
 <a name=""note_wolzogen3"" id=""note_wolzogen3"" href=""#tag_wolzogen3"">3.</a>
 The italics, save those used for proper names (which are von
-Wolzogen’s), indicate inaccurate renderings.</p>",,,,"von Wolzogen, H. Beovulf (Bärwelf). Das älteste deutsche Heldengedicht 1872",,tinker
+Wolzogen’s), indicate inaccurate renderings.</p>",,,,"von Wolzogen, H. Beovulf (Bärwelf). Das älteste deutsche Heldengedicht 1872",citation,tinker
 trans_arnold,Translations,"Arnold, Thomas","Beowulf, a heroic poem of the eighth century",1876,eng,English,Arnold’s Edition,"<p>Beowulf, a heroic poem of the eighth century, with a
 translation, notes, and appendix, by Thomas Arnold, M.A. London:
 Longmans, Green &amp; Co., 1876. 8<sup>o</sup>, pp. xliii, 223.</p>",Fourth English Translation. Prose.,"<h5>Circumstances of Publication.</h5>
@@ -3530,7 +3530,7 @@ Omits wintrys wylum.</p>
 
 <p>
 <a name=""note_botkine16"" id=""note_botkine16"" href=""#tag_botkine16"">16.</a>
-Omits lēof his lēodum.</p>",,,,"Botkine, L. Beowulf, Épopée Anglo-Saxonne 1877",,tinker
+Omits lēof his lēodum.</p>",,,,"Botkine, L. Beowulf, Épopée Anglo-Saxonne 1877",citation,tinker
 trans_lumsden,Translations,"Lumsden, H. W.","Beowulf, an Old English Poem, translated into Modern Rhymes",1881,eng,English,Lumsden’s Translation,"<p>Beowulf, an Old English Poem, translated into Modern Rhymes, by
 Lieut.-Colonel H. W. Lumsden<a class=""tag"" name=""tag_lumsden1"" id=""tag_lumsden1"" href=""#note_lumsden1"">1</a>. London: C. Kegan Paul
 &amp; Co., 1881. 8<sup>o</sup>, pp. xx, 114.</p>
@@ -3995,7 +3995,7 @@ See supra, <a href=""#trans_schaldemose"">p. 41</a>.</p>
 <p>
 <a name=""note_grion3"" id=""note_grion3"" href=""#tag_grion3"">3.</a>
 Of a work by G. Schuhmann, mentioned by Wülker in his <i>Grundriss</i>,
-§&nbsp;209, I&nbsp;can ascertain nothing.</p>",,,,"Grion, G. Beovulf, poema epico anglosassone del vii secolo 1883",,tinker
+§&nbsp;209, I&nbsp;can ascertain nothing.</p>",,,,"Grion, G. Beovulf, poema epico anglosassone del vii secolo 1883",citation,tinker
 trans_wickberg,Translations,"Wickberg, R.","Beowulf, en fornengelsk hjeltedikt",1889,swe,Swedish,Wickberg’s Translation,"<p>Beowulf, <ins class=""correction"" title=""error for ‘et’?"">en</ins>
 fornengelsk hjeltedikt, öfversatt af Rudolf Wickberg. Westervik,
 C. O. Ekblad &amp; Comp., 1889. 4<sup>o</sup>, pp. 48, double
@@ -4063,7 +4063,7 @@ the words of his translation.</p>","<h5 class=""smallroman"">8.</h5>
 <p>Den fagra fridsborgen, der han hade folk,</p>
 <p>Berg och ringar. Hela sitt vad med dig</p>
 <p>Fullgjorde noga Beanstans son.’</p>
-</div>",,,,,,"Wickberg, R. Beowulf, en fornengelsk hjeltedikt 1889",,tinker
+</div>",,,,,,"Wickberg, R. Beowulf, en fornengelsk hjeltedikt 1889",citation,tinker
 trans_earle,Translations,"Earle, John","The Deeds of Beowulf, an English Epic of the Eighth Century, done into Modern Prose",1892,eng,English,Earle’s Translation,"<p>The Deeds of Beowulf, an English Epic of the Eighth Century, done
 into Modern Prose, with an Introduction and Notes by John Earle, M.A.,
 rector of Swanswick, Rawlinsonian Professor of Anglo-Saxon in the
@@ -4641,7 +4641,7 @@ See <a href=""#trans_lumsden"">p. 79</a>.</p>
 
 <p>
 <a name=""note_hoffmann6"" id=""note_hoffmann6"" href=""#tag_hoffmann6"">6.</a>
-See <a href=""#trans_wackerbarth"">p. 45</a>.</p>",,,,"Hoffmann, P. Beówulf. Aeltestes deutsches Heldengedicht 1900",,tinker
+See <a href=""#trans_wackerbarth"">p. 45</a>.</p>",,,,"Hoffmann, P. Beówulf. Aeltestes deutsches Heldengedicht 1900",citation,tinker
 trans_morris_wyatt,Translations,"Morris, W.; Wyatt, A. J.","The Tale of Beowulf, Sometime King of the Folk of the Weder Geats",1895,eng,English,Morris And Wyatt’s Translation,"<p>Colophon: Here endeth the story of Beowulf done out of the old
 English tongue by William Morris and A. J. Wyatt, and printed by said
 William Morris at the Kelmscott Press, Uppermall, Hammersmith, in the
@@ -4957,7 +4957,7 @@ Fifth edition of Heyne’s text, 1888.</p>
 <p>
 <a name=""note_simons2"" id=""note_simons2"" href=""#tag_simons2"">2.</a>
 At this point Simons speaks as if ab, ab, were the common form of
-alliteration in Old English, whereas it is rather uncommon.</p>",,,,"Simons, L. Beówulf, Angelsaksisch Volksepos, vertaald in Stafrijm 1896",,tinker
+alliteration in Old English, whereas it is rather uncommon.</p>",,,,"Simons, L. Beówulf, Angelsaksisch Volksepos, vertaald in Stafrijm 1896",citation,tinker
 trans_steineck,Translations,"Steineck, H.","Altenglische Dichtungen (Beowulf, Elene, u.a.) in wortgetreuer Uebersetzung",1898,deu,German,Steineck’s Translation,"<p>Altenglische Dichtungen (Beowulf, Elene, u.a.) in wortgetreuer
 Uebersetzung von H. Steineck. Leipzig, 1898, O. R. Reisland.
 8<sup>o</sup>, Beowulf, pp. 1–102.</p>",Seventh German Translation. Line for line.,"<h5>Aim of the Volume, and Nature of the Translation.</h5>
@@ -5053,7 +5053,7 @@ See supra, <a href=""#trans_heyne_relation"">p. 64</a>.</p>
 
 <p>
 <a name=""note_steineck2"" id=""note_steineck2"" href=""#tag_steineck2"">2.</a>
-See also supra, <a href=""#prelim"">p. 8</a>.</p>",,,,"Steineck, H. Altenglische Dichtungen (Beowulf, Elene, u.a.) in wortgetreuer Uebersetzung 1898",,tinker
+See also supra, <a href=""#prelim"">p. 8</a>.</p>",,,,"Steineck, H. Altenglische Dichtungen (Beowulf, Elene, u.a.) in wortgetreuer Uebersetzung 1898",citation,tinker
 trans_jrc_hall,Translations,"Hall, John R. Clark","Beowulf, and the Fight at Finnsburg, a translation into modern English prose",1901,eng,English,J. R. C. Hall’s Translation,"<p>Beowulf, and the Fight at Finnsburg, a translation into modern
 English prose, with an Introduction and Notes, by John R. Clark Hall,
 M.A., Ph.D. With twelve illustrations<a class=""tag"" name=""tag_jrc_hall1"" id=""tag_jrc_hall1"" href=""#note_jrc_hall1"">1</a>.
@@ -5380,7 +5380,7 @@ See supra, <a href=""#trans_kemble"">p. 33</a>.</p>
 
 <p>
 <a name=""note_leo3"" id=""note_leo3"" href=""#tag_leo3"">3.</a>
-See supra, <a href=""#trans_ettmuller"">p. 37</a>.</p>",,,,"Leo, H. Bëówulf, dasz älteste deutsche in angelsächsischer mundart erhaltene heldengedicht nach seinem inhalte, und nach seinen historischen und mythologischen beziehungen betrachtet. 1839",,tinker
+See supra, <a href=""#trans_ettmuller"">p. 37</a>.</p>",,,,"Leo, H. Bëówulf, dasz älteste deutsche in angelsächsischer mundart erhaltene heldengedicht nach seinem inhalte, und nach seinen historischen und mythologischen beziehungen betrachtet. 1839",citation,tinker
 para_sandras,Incomplete translations and paraphrases,"Sandras, G. S.",De carminibus anglo-saxonicis Cædmoni adjudicatis Disquisitio.,1859,lat,Latin,Sandras’s Account,"<p><span class=""firstword"">De</span> carminibus anglo-saxonicis
 Cædmoni adjudicatis Disquisitio. Has theses Parisiensi Litterarum
 Facultati proponebat S. G. Sandras in Lycaeo Claromontensi Professor.
@@ -5394,7 +5394,7 @@ general title, De Poesi Saxonica. In § 2 the poem is rather
 carefully sketched, much after the manner of Leo<a class=""tag"" name=""tag_sandras1"" id=""tag_sandras1"" href=""#note_sandras1"">1</a>, from
 Beowulf’s arrival in the Danish land to the fight with Grendel.</p>",,,"<p class=""footnote"">
 <a name=""note_sandras1"" id=""note_sandras1"" href=""#tag_sandras1"">1.</a>
-See supra, <a href=""#para_leo"">p. 122</a>.</p>",,,,"Sandras, G. S. De carminibus anglo-saxonicis Cædmoni adjudicatis Disquisitio. 1859",,tinker
+See supra, <a href=""#para_leo"">p. 122</a>.</p>",,,,"Sandras, G. S. De carminibus anglo-saxonicis Cædmoni adjudicatis Disquisitio. 1859",citation,tinker
 para_jones,Incomplete translations and paraphrases,"Jones, E. H.",Popular Romances of the Middle Ages,1871,eng,English,E. H. Jones’s Paraphrase,"<p>Popular Romances of the Middle Ages. By George W. Cox, M.A., and
 Eustace Hinton Jones. London: Longmans, Green, &amp; Co., 1871.
 8<sup>o</sup>, <i>Beowulf</i> (by E. H. Jones), pp. 382–398.</p>
@@ -5573,7 +5573,7 @@ Men ne cunnon</p>
 <p>secgan tō sōðe, sele-rǣdende</p>
 <p>hæleð under heofenum, hwā þǣm hlæste onfēng. —Lines
 50–52. </p>
-</div>",,,,"Zinsser, G. Jahresbericht über die Realschule zu Forbach (Lothringen) für das Schuljahr 1880 bis 1881, mit welchem zu der öffentlichen Prüfung am Freitag den 12. 1881",,tinker
+</div>",,,,"Zinsser, G. Jahresbericht über die Realschule zu Forbach (Lothringen) für das Schuljahr 1880 bis 1881, mit welchem zu der öffentlichen Prüfung am Freitag den 12. 1881",citation,tinker
 para_gibb,Incomplete translations and paraphrases,"Gibb, J.","Gudrun and other Stories, from the Epics of the Middle Ages",1881,eng,English,Gibb’s Paraphrase,"<p>*Gudrun and other Stories, from the Epics of the Middle Ages, by John
 Gibb. M. Japp &amp; Company: London: Edinburgh (printed), 1881.</p>
 
@@ -5823,7 +5823,7 @@ See p. 662.</p>
 
 <p>
 <a name=""note_dahn2"" id=""note_dahn2"" href=""#tag_dahn2"">2.</a>
-See supra, <a href=""#trans_simrock"">p. 59</a>.</p>",,,,"Dahn, T. Walhall. Germanische Götter- und Heldensagen. 1883",,tinker
+See supra, <a href=""#trans_simrock"">p. 59</a>.</p>",,,,"Dahn, T. Walhall. Germanische Götter- und Heldensagen. 1883",citation,tinker
 para_brooke,Incomplete translations and paraphrases,"Brooke, S. A.","The History of Early English Literature, being the History of English Poetry from its Beginnings to the Accession of King Ælfred.",1892,eng,English,Stopford Brooke’s Selections,"<p>The History of Early English Literature, being the History of English
 Poetry from its Beginnings to the Accession of King Ælfred. By Stopford
 A. Brooke. New York and London: The Macmillan Co., 1892. 8<sup>o</sup>,
