@@ -6,8 +6,13 @@
 
             <h4><a href="{{ '/' | relative_url }}" class="text-white font-weight-normal">{{ site.title }}</a></h4>
             <p class="text-white"><small>{{ site.description }}</small></p>
+        
+        </div>
+
+        <div class="col-md-5 mt-2 text-right">
+
             <nav>
-                <ul class="nav nav-pills ">
+                <ul class="nav nav-pills justify-content-end">
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
                     {% for nav in navItems %}
                     <li class="nav-item">
@@ -24,27 +29,10 @@
 
         </div>
 
-        <div class="col-md-5 mt-2 text-right">
-
-            <p class="text-right">
-                <a href="{{ site.organization-link }}" target="_blank" rel="noopener">
-                    <img class="img-fluid" src="{{ site.organization-logo-nav | relative_url }}" alt="{{ site.organization-name }} home">
-                </a>
-            </p>
-            <p class="text-white" id="footer-credits">
-                <small><em>built with</em>
-                    <a href="https://collectionbuilder.github.io/" target="_blank" rel="noopener" title="CollectionBuilder">
-                        <img src="{{ '/assets/img/collectionbuilder-logo.png' | relative_url }}" class="img-fluid" alt="CollectionBuilder home" >
-                    </a>
-                </small>
-            </p>
-
-        </div>
-
     </div>
 
     <div class="col-md-12 text-center pt-3 pb-1">
-        <p class="text-white">Last updated {{ site.time | date: '%Y' }}</p>
+        <p class="text-white"><a href="https://github.com/evanwill/beowulf-s">evanwill</a> {{ site.time | date: '%Y' }}</p>
     </div>
 
 </footer>
