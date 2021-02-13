@@ -1,30 +1,16 @@
 ---
-layout: page
+layout: home-infographic
 title: Home
 ---
-{%- assign items = site.data[site.metadata] -%}
-<div class="row">
-  <div class="col-md-8">
 
-    {% include index/description.html %}
-    
+# Beowulf-s
 
-  </div>
-  <div class="col-md-4">  
+The `beowulf-s` project presents the content of Chauncey B. Tinker's *The Translations of Beowulf: A Critical Bibliography* (1903) as a digital collection to explore the texts along side his introductions, extracts, and criticism.
 
-    {% include index/time.html %}
+<figure class="figure mx-auto">
+<a href="">
+<img class="figure-img img-fluid rounded" alt="image of beowulf manuscript" src="{{ '/assets/img/ms_cotton_vitellius_a_xv_f_132r.jpg' | relative_url }}">
+</a>
+</figure>
 
-    {% include index/featured-terms.html field="language_display" title="Translation Language" btn-color="info" %}
-
-    {% include index/featured-terms.html field="category" title="Category" btn-color="outline-secondary" %}
-    
-    {% include index/objects.html %}
-
-  </div>
-  <div class="col-md-12">
-
-    {% include index/data-download.html %}
-
-  </div>
-
-</div>
+<a class="btn btn-info" href="{{ '/about.html' | relative_url }}" role="button">Learn More &raquo;</a>
