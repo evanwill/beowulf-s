@@ -13,7 +13,7 @@ function makeCard(obj) {
     card += '<div class="card-body text-center"> <h4 class="card-title"><a href="' + itemHref + '" class="text-dark">' + obj.title + '</a></h4>';
     
     // other fields
-    card += '<p class="card-text">';
+    card += '<p class="card-text h5">';
     {% for f in fields %}{% unless f.hidden == 'true' %}
     if(obj[{{ f.field | jsonify }}]){
     {% if f.display_name %}card += '<strong>{{ f.display_name }}:</strong> ';{% endif %}
