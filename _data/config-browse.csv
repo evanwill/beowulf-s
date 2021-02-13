@@ -1,4 +1,4 @@
 field,display_name,btn,hidden,sort_name
-author,Author,,,
+author,Translator,,,
 date,Date,,,Date
-category,Category,,,
+category,,true,,
