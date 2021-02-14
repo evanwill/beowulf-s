@@ -6,14 +6,18 @@
     - author - extracted from Tinker author index
     - title - extracted and cleaned from Tinker citation
     - date - extracted and cleaned from Tinker citation
-    - language - of work
+    - language - of translation, ISO code
+    - language_display - full text language
     - tinker_review_title - title of review in Tinker / Tinker toc
     - citation - Tinker citation, first section of each review in original text
     - description - Tinker's short description given after each citation
     - introduction - Tinker's intro to the text
     - extract - Tinker's extract from the text
     - criticism - Tinker's criticism of the text
-    - footnotes - Tinker's footnotes (anchors corispond with links in other review sections)
+    - footnotes - Tinker's footnotes (anchors correspond with links in other review sections)
     - text_links - markdown links to sources of the digitized text
+    - text_links_pipe - links given in format: "link text|https://link.com"
     - text_internet_archive - direct link to Internet Archive version, for use in display
     - book_search - combination of author + title + date as starting point for finding texts online
+    - format - format of file if available (application/pdf, record)
+    - object_template - layout for item page ("tinker")
