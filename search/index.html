@@ -303,6 +303,8 @@
 
         this.field("citation");
 
+        this.field("language_display");
+
         //this.pipeline.remove(lunr.trimmer)
 
         for (var item in store) {
@@ -314,6 +316,8 @@
             author: store[item]["author"],
 
             citation: store[item]["citation"],
+
+            language_display: store[item]["language_display"],
 
             id: item,
           });
