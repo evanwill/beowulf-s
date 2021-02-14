@@ -1,0 +1,6 @@
+field,display_name,browse_link,dc_map,schema_map
+title,Title,,DCTERMS.title,headline
+author,Translator,,DCTERMS.creator,creator
+date,Date,,DCTERMS.created,dateCreated
+language,Language,,,
+category,Category,,,

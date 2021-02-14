@@ -1,0 +1,73 @@
+##########
+# CollectionBuilder Theme Customization
+# values set here help configure details of individual pages in the website
+##########
+
+
+##########
+# BROWSE PAGE
+#
+# see _data/browse-config.csv for field display options
+# fields given the "btn" option can be multivalued with ";" such as subjects.
+
+##########
+# ITEM PAGE
+#
+# see _data/metadata-config.csv to define the metadata fields that will display.
+browse-buttons: true # true / false, adds previous/next arrows to items, but increases build time
+
+##########
+# SUBJECTS PAGE
+#
+subjects-fields: subject;creator # set of fields separated by ; to be featured in the cloud (leave blank or comment out to not generate)
+subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
+subjects-stopwords: # set of subjects separated by ; that will be removed from display, e.g. boxers;boxing
+
+##########
+# TIMELINE PAGE
+#
+year-navigation: #"1900;1905;1910;1915;1920" # manually set years to appear in dropdown nav
+year-nav-increment: 5 # set increments to auto gen nav years
+
+##########
+# DATA 
+# 
+# add metadata fields for export in data downloads (tip: paste in first row of csv)
+# comma delimited list, reference url is automatic
+metadata-export-fields: "category,author,title,date,language,tinker_review_title,citation,description,introduction,extract,criticism,footnotes,text_links,text_internet_archive,book_search"
+# generate a facets list for given fields, comma delimited
+metadata-facets-fields: "category,language,date"
+
+##########
+# ADVANCED OPTIONS
+#
+
+# NAVBAR COLORS
+# navbar text color
+# Choose from "navbar-light" for use with light background colors, or "navbar-dark" for dark background colors
+navbar-color: navbar-dark
+# navbar background color
+# Choose from bg-primary, bg-secondary, bg-success, bg-danger, bg-warning, bg-info, bg-light, bg-dark, bg-white
+navbar-background: bg-ms-dark
+
+# BOOTSWATCH THEMES
+# You can replace the standard Bootstrap theme with a Bootswatch (https://github.com/thomaspark/bootswatch) option
+# Choose from: cerulean; cosmo; cyborg; darkly; flatly; journal; litera; lumen; lux; materia; minty; pulse; sandstone; simplex; sketchy; slate; solar; spacelab; superhero; united; yeti 
+bootswatch: # leave blank or comment out for plain bootstrap
+
+# THEME FONTS
+base-font-size: 1.2em
+text-color: "#191919"
+link-color: "#17a2b8"
+base-font-family: # comment out for bootstrap defaults. e.g. Roboto
+font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/css?family=Roboto&display=swap" rel="stylesheet">
+
+# THEME ICONS
+# the template uses Bootstrap Icons, https://icons.getbootstrap.com/
+# find the names on the BI icons page, e.g. file-image
+icon-image: image
+icon-audio: file-play
+icon-video: film
+icon-pdf: file-richtext
+icon-default: file-earmark # fall back icon
+icon-scroll-to-top: arrow-up-square # icon for scroll to top button
