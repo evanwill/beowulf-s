@@ -3,3 +3,4 @@ title,true,true
 date,true,true
 author,true,false
 citation,true,false
+language_display,true,false
