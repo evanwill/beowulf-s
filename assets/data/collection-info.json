@@ -1,0 +1,21 @@
+{ 
+    "title": "beowulf-s",
+    "url": "https://evanwill.github.io/beowulf-s/",
+    "image": "/beowulf-s/assets/img/collectionbuilder-logo.png", 
+    "description": "The Beowulf-s project presents <em>The Translations of Beowulf: A Critical Bibliography</em> 1903 as a digital collection to explore the texts and Tinker's criticism.",
+    "publisher": { 
+        "name": "", 
+        "url": "", 
+        "logo": "" 
+    },
+    "date_start": "0975",
+    "date_end": "1902",
+    "objects": {
+        "application/pdf": "23",
+        "citation": "16"
+        
+    },
+    "data": "https://evanwill.github.io/beowulf-s/assets/data/datapackage.json",
+    "last_build_date": "2021-02-14"
+}
+

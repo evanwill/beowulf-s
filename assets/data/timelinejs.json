@@ -1,0 +1,562 @@
+{
+    "title": {
+        "media": {
+          "url": "/beowulf-s/assets/img/collectionbuilder-logo.png",
+          "caption": null,
+          "credit": "beowulf-s"
+        },
+        "text": {
+          "headline": "beowulf-s Timeline",
+          "text": "The Beowulf-s project presents <em>The Translations of Beowulf: A Critical Bibliography</em> 1903 as a digital collection to explore the texts and Tinker's criticism."
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "",
+          "caption": "MS. Cotton Vitellius A. xv",
+          "link": "/beowulf-s/items/forward_ms.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "0975"
+        },
+        "text": {
+          "headline": "MS. Cotton Vitellius A. xv",
+          "text": "Manuscript"
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "The History of the Manners, Landed Property, Government, Laws, Poetry, Literature, Religion, and Language of the Anglo-Saxons",
+          "link": "/beowulf-s/items/trans_turner.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1805"
+        },
+        "text": {
+          "headline": "The History of the Manners, Landed Property, Government, Laws, Poetry, Literature, Religion, and Language of the Anglo-Saxons",
+          "text": "Translation of Extracts from the first two Parts."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "De Danorum Rebus Gestis Secul III & IV, Poema Danicum Dialecto Anglosaxonica.",
+          "link": "/beowulf-s/items/trans_thorkelin.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1815"
+        },
+        "text": {
+          "headline": "De Danorum Rebus Gestis Secul III & IV, Poema Danicum Dialecto Anglosaxonica.",
+          "text": "First Edition. First Translation (Latin)."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Bjowulf’s Draape. Et Gothisk Helte-digt fra forrige Aar-tusinde af Angel-Saxisk paa Danske Riim",
+          "link": "/beowulf-s/items/trans_grundtvig.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1865"
+        },
+        "text": {
+          "headline": "Bjowulf’s Draape. Et Gothisk Helte-digt fra forrige Aar-tusinde af Angel-Saxisk paa Danske Riim",
+          "text": "First Danish Translation. Ballad Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Illustrations of Anglo-Saxon Poetry",
+          "link": "/beowulf-s/items/trans_conybeare.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1826"
+        },
+        "text": {
+          "headline": "Illustrations of Anglo-Saxon Poetry",
+          "text": "Translation of extracts into English blank verse, with the original text\nof the extracts, and a literal translation of them into Latin prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "The Anglo-Saxon poems of Beowulf, the Traveller’s Song, and the Battle at Finnes-burh",
+          "link": "/beowulf-s/items/trans_kemble.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1833"
+        },
+        "text": {
+          "headline": "The Anglo-Saxon poems of Beowulf, the Traveller’s Song, and the Battle at Finnes-burh",
+          "text": "First English Translation. Prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf. Heldengedicht des achten Jahrhunderts",
+          "link": "/beowulf-s/items/trans_ettmuller.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1840"
+        },
+        "text": {
+          "headline": "Beowulf. Heldengedicht des achten Jahrhunderts",
+          "text": "First German Translation. Imitative measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beo-wulf og Scopes Widsið, to angelsaxiske Digte",
+          "link": "/beowulf-s/items/trans_schaldemose.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1847"
+        },
+        "text": {
+          "headline": "Beo-wulf og Scopes Widsið, to angelsaxiske Digte",
+          "text": "Second Danish Translation."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf, an epic poem translated from the Anglo-Saxon into English verse",
+          "link": "/beowulf-s/items/trans_wackerbarth.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1849"
+        },
+        "text": {
+          "headline": "Beowulf, an epic poem translated from the Anglo-Saxon into English verse",
+          "text": "Second English Translation. Ballad Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "The Anglo-Saxon Poems of Beowulf, The Scop or Gleeman’s Tale, and the Fight at Finnesburg",
+          "link": "/beowulf-s/items/trans_thorpe.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1855"
+        },
+        "text": {
+          "headline": "The Anglo-Saxon Poems of Beowulf, The Scop or Gleeman’s Tale, and the Fight at Finnesburg",
+          "text": "Third English Translation. Short Lines."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Dichtungen der Angelsachsen",
+          "link": "/beowulf-s/items/trans_grein.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1863"
+        },
+        "text": {
+          "headline": "Dichtungen der Angelsachsen",
+          "text": "Second German Translation. Imitative Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf. Das älteste deutsche Epos",
+          "link": "/beowulf-s/items/trans_simrock.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1859"
+        },
+        "text": {
+          "headline": "Beowulf. Das älteste deutsche Epos",
+          "text": "Third German Translation. Imitative Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf. Angelsächsisches Heldengedicht",
+          "link": "/beowulf-s/items/trans_heyne.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1863"
+        },
+        "text": {
+          "headline": "Beowulf. Angelsächsisches Heldengedicht",
+          "text": "Fourth German Translation. Iambic Pentameter."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beovulf (Bärwelf). Das älteste deutsche Heldengedicht",
+          "link": "/beowulf-s/items/trans_wolzogen.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1872"
+        },
+        "text": {
+          "headline": "Beovulf (Bärwelf). Das älteste deutsche Heldengedicht",
+          "text": "Fifth German Translation. Imitative Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf, a heroic poem of the eighth century",
+          "link": "/beowulf-s/items/trans_arnold.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1876"
+        },
+        "text": {
+          "headline": "Beowulf, a heroic poem of the eighth century",
+          "text": "Fourth English Translation. Prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf, Épopée Anglo-Saxonne",
+          "link": "/beowulf-s/items/trans_botkine.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1877"
+        },
+        "text": {
+          "headline": "Beowulf, Épopée Anglo-Saxonne",
+          "text": "First French Translation. Prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf, an Old English Poem, translated into Modern Rhymes",
+          "link": "/beowulf-s/items/trans_lumsden.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1881"
+        },
+        "text": {
+          "headline": "Beowulf, an Old English Poem, translated into Modern Rhymes",
+          "text": "Fifth English Translation. Ballad Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf: An Anglo-Saxon Poem, and the Fight at Finnsburg",
+          "link": "/beowulf-s/items/trans_garnett.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1882"
+        },
+        "text": {
+          "headline": "Beowulf: An Anglo-Saxon Poem, and the Fight at Finnsburg",
+          "text": "Sixth English Translation. Imitative Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beovulf, poema epico anglosassone del vii secolo",
+          "link": "/beowulf-s/items/trans_grion.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1883"
+        },
+        "text": {
+          "headline": "Beovulf, poema epico anglosassone del vii secolo",
+          "text": "First Italian Translation. Imitative Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf, en fornengelsk hjeltedikt",
+          "link": "/beowulf-s/items/trans_wickberg.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1889"
+        },
+        "text": {
+          "headline": "Beowulf, en fornengelsk hjeltedikt",
+          "text": "First Swedish Translation. Imitative Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "The Deeds of Beowulf, an English Epic of the Eighth Century, done into Modern Prose",
+          "link": "/beowulf-s/items/trans_earle.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1892"
+        },
+        "text": {
+          "headline": "The Deeds of Beowulf, an English Epic of the Eighth Century, done into Modern Prose",
+          "text": "Seventh English Translation. Prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf, an Anglo-Saxon Epic Poem",
+          "link": "/beowulf-s/items/trans_jl_hall.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1892"
+        },
+        "text": {
+          "headline": "Beowulf, an Anglo-Saxon Epic Poem",
+          "text": "Eighth English Translation. Imitative Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beówulf. Aeltestes deutsches Heldengedicht",
+          "link": "/beowulf-s/items/trans_hoffmann.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1900"
+        },
+        "text": {
+          "headline": "Beówulf. Aeltestes deutsches Heldengedicht",
+          "text": "Sixth German Translation. Nibelungen Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "The Tale of Beowulf, Sometime King of the Folk of the Weder Geats",
+          "link": "/beowulf-s/items/trans_morris_wyatt.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1895"
+        },
+        "text": {
+          "headline": "The Tale of Beowulf, Sometime King of the Folk of the Weder Geats",
+          "text": "Ninth English Translation. Imitative Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beówulf, Angelsaksisch Volksepos, vertaald in Stafrijm",
+          "link": "/beowulf-s/items/trans_simons.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1896"
+        },
+        "text": {
+          "headline": "Beówulf, Angelsaksisch Volksepos, vertaald in Stafrijm",
+          "text": "First Dutch Translation. Iambic Pentameter."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Altenglische Dichtungen (Beowulf, Elene, u.a.) in wortgetreuer Uebersetzung",
+          "link": "/beowulf-s/items/trans_steineck.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1898"
+        },
+        "text": {
+          "headline": "Altenglische Dichtungen (Beowulf, Elene, u.a.) in wortgetreuer Uebersetzung",
+          "text": "Seventh German Translation. Line for line."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf, and the Fight at Finnsburg, a translation into modern English prose",
+          "link": "/beowulf-s/items/trans_jrc_hall.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1901"
+        },
+        "text": {
+          "headline": "Beowulf, and the Fight at Finnsburg, a translation into modern English prose",
+          "text": "Tenth English Translation. Prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Beowulf, translated out of the Old English",
+          "link": "/beowulf-s/items/trans_tinker.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1902"
+        },
+        "text": {
+          "headline": "Beowulf, translated out of the Old English",
+          "text": "Eleventh English Translation. Prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Bëówulf, dasz älteste deutsche in angelsächsischer mundart erhaltene heldengedicht nach seinem inhalte, und nach seinen historischen und mythologischen beziehungen betrachtet.",
+          "link": "/beowulf-s/items/para_leo.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1839"
+        },
+        "text": {
+          "headline": "Bëówulf, dasz älteste deutsche in angelsächsischer mundart erhaltene heldengedicht nach seinem inhalte, und nach seinen historischen und mythologischen beziehungen betrachtet.",
+          "text": "Selections Translated into German Prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "De carminibus anglo-saxonicis Cædmoni adjudicatis Disquisitio.",
+          "link": "/beowulf-s/items/para_sandras.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1859"
+        },
+        "text": {
+          "headline": "De carminibus anglo-saxonicis Cædmoni adjudicatis Disquisitio.",
+          "text": "Extracts Translated into Latin Prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Popular Romances of the Middle Ages",
+          "link": "/beowulf-s/items/para_jones.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1871"
+        },
+        "text": {
+          "headline": "Popular Romances of the Middle Ages",
+          "text": "A Paraphrase for General Readers."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Jahresbericht über die Realschule zu Forbach (Lothringen) für das Schuljahr 1880 bis 1881, mit welchem zu der öffentlichen Prüfung am Freitag den 12.",
+          "link": "/beowulf-s/items/para_zinsser.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1881"
+        },
+        "text": {
+          "headline": "Jahresbericht über die Realschule zu Forbach (Lothringen) für das Schuljahr 1880 bis 1881, mit welchem zu der öffentlichen Prüfung am Freitag den 12.",
+          "text": "The First 836 Lines translated in Iambic Pentameter."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Gudrun and other Stories, from the Epics of the Middle Ages",
+          "link": "/beowulf-s/items/para_gibb.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1881"
+        },
+        "text": {
+          "headline": "Gudrun and other Stories, from the Epics of the Middle Ages",
+          "text": "A Paraphrase in English Prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Epics and Romances of the Middle Ages",
+          "link": "/beowulf-s/items/para_wagner_macdowall.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1883"
+        },
+        "text": {
+          "headline": "Epics and Romances of the Middle Ages",
+          "text": "<i>Beowulf</i> Retold, with Changes and Additions."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Walhall. Germanische Götter- und Heldensagen.",
+          "link": "/beowulf-s/items/para_dahn.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1883"
+        },
+        "text": {
+          "headline": "Walhall. Germanische Götter- und Heldensagen.",
+          "text": "A Paraphrase in German Prose for General Readers."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "The History of Early English Literature, being the History of English Poetry from its Beginnings to the Accession of King Ælfred.",
+          "link": "/beowulf-s/items/para_brooke.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1892"
+        },
+        "text": {
+          "headline": "The History of Early English Literature, being the History of English Poetry from its Beginnings to the Accession of King Ælfred.",
+          "text": "Digest, Running Comment, and Translation of Copious Extracts into\nImitative Measures."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Tales of the Heroic Ages. Siegfried, the Hero of the North, and Beowulf, the Hero of the Anglo-Saxons",
+          "link": "/beowulf-s/items/para_ragozin.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1898"
+        },
+        "text": {
+          "headline": "Tales of the Heroic Ages. Siegfried, the Hero of the North, and Beowulf, the Hero of the Anglo-Saxons",
+          "text": "A Paraphrase in English Prose."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "Heroes of Chivalry and Romance",
+          "link": "/beowulf-s/items/para_church.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1898"
+        },
+        "text": {
+          "headline": "Heroes of Chivalry and Romance",
+          "text": "Beowulf Retold."
+        }
+      },{
+        "media": {
+          "url": "",
+          "caption": "The Adventures of Beowulf, translated from the Old English and adapted to the Use of Schools",
+          "link": "/beowulf-s/items/para_thomson.html",
+          "credit": "beowulf-s"
+        },
+        "start_date": { 
+          "year": "1899"
+        },
+        "text": {
+          "headline": "The Adventures of Beowulf, translated from the Old English and adapted to the Use of Schools",
+          "text": "A Paraphrase in English Prose."
+        }
+      }
+    ]
+}

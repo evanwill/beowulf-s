@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+  <head prefix="og: http://ogp.me/ns#">
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+    <title>Site Search | beowulf-s</title>
+    <link
+      rel="shortcut icon"
+      type="image/x-icon"
+      href="/beowulf-s/favicon.ico"
+    />
+    <!--
+
+  _____     ____        __  _           ___       _ __   __       
+ / ___/__  / / /__ ____/ /_(_)__  ___  / _ )__ __(_) /__/ /__ ____
+/ /__/ _ \/ / / -_) __/ __/ / _ \/ _ \/ _  / // / / / _  / -_) __/
+\___/\___/_/_/\__/\__/\__/_/\___/_//_/____/\_,_/_/_/\_,_/\__/_/   
+                                                                
+    built with CollectionBuilder-SA https://github.com/CollectionBuilder/collectionbuilder-sa
+-->
+    <meta name="generator" content="collectionbuilder-sa" />
+    <meta http-equiv="Content-Language" content="en-us" />
+
+    <link
+      rel="stylesheet"
+      href="/beowulf-s/assets/lib/bootstrap.min.css"
+      type="text/css"
+    />
+    <link
+      rel="stylesheet"
+      href="/beowulf-s/assets/css/custom.css"
+      type="text/css"
+    />
+
+    <meta
+      name="description"
+      content="The Beowulf-s project presents &lt;em&gt;The Translations of Beowulf: A Critical Bibliography&lt;/em&gt; 1903 as a digital collection to explore the texts and Tinker&#39;s criticism."
+    />
+    <meta name="author" content="evanwill, " />
+    <!-- Open Graph meta -->
+    <meta property="og:title" content="Site Search | beowulf-s" />
+    <meta
+      property="og:description"
+      content="The Beowulf-s project presents &lt;em&gt;The Translations of Beowulf: A Critical Bibliography&lt;/em&gt; 1903 as a digital collection to explore the texts and Tinker&#39;s criticism."
+    />
+    <meta property="og:site_name" content="beowulf-s" />
+    <meta property="og:type" content="website" />
+    <meta
+      property="og:image"
+      content="/beowulf-s/assets/img/collectionbuilder-logo.png"
+    />
+    <meta property="og:image:alt" content="" />
+    <meta
+      property="og:url"
+      content="https://evanwill.github.io/beowulf-s/search/"
+    />
+    <meta property="og:locale" content="en_US" />
+    <!-- schema.org JSON-LD -->
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "headline": "Site Search | beowulf-s",
+        "publisher": {
+          "@context": "https://schema.org",
+          "@type": "Organization",
+          "name": "",
+          "url": "",
+          "logo": ""
+        },
+        "description": "The Beowulf-s project presents <em>The Translations of Beowulf: A Critical Bibliography</em> 1903 as a digital collection to explore the texts and Tinker's criticism.",
+        "image": "/beowulf-s/assets/img/collectionbuilder-logo.png",
+        "url": "https://evanwill.github.io/beowulf-s/search/"
+      }
+    </script>
+
+    <!-- Analytics -->
+    <!-- Last build date: 2021-02-14 -->
+  </head>
+  <body class="d-flex flex-column h-100">
+    <div id="skip-to-content">
+      <a href="#maincontent">Skip to main content</a>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-ms-dark">
+      <div class="container">
+        <a class="navbar-brand" href="/beowulf-s/">beowulf-s</a>
+
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-toggle="collapse"
+          data-target="#page-nav"
+          aria-controls="page-nav"
+          aria-expanded="false"
+          aria-label="Toggle navigation"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+
+        <div class="collapse navbar-collapse" id="page-nav">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+              <a class="nav-link" href="/beowulf-s/browse.html">Browse</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="/beowulf-s/timeline.html">Timeline</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="/beowulf-s/data.html">Data</a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="/beowulf-s/about.html">About</a>
+            </li>
+          </ul>
+          <script>
+            function site_search() {
+              var query = document.getElementById("site-search").value;
+              window.open(
+                "/beowulf-s/search/index.html?q=" + encodeURIComponent(query),
+                "_self"
+              );
+            }
+          </script>
+          <form
+            class="form-inline my-2 my-lg-0"
+            role="search"
+            id="search"
+            onsubmit="site_search(); return false;"
+          >
+            <div class="input-group">
+              <input
+                id="site-search"
+                class="form-control"
+                type="text"
+                placeholder="Search"
+                aria-label="Search box"
+              />
+              <div class="input-group-append">
+                <button class="btn btn-light" type="submit">
+                  <span id="search-icon"
+                    ><svg viewBox="0 0 1024 974" height="16px" width="20px">
+                      <path
+                        d="M960 832L710.875 582.875C746.438 524.812 768 457.156 768 384 768 171.96900000000005 596 0 384 0 171.969 0 0 171.96900000000005 0 384c0 212 171.969 384 384 384 73.156 0 140.812-21.562 198.875-57L832 960c17.5 17.5 46.5 17.375 64 0l64-64C977.5 878.5 977.5 849.5 960 832zM384 640c-141.375 0-256-114.625-256-256s114.625-256 256-256 256 114.625 256 256S525.375 640 384 640z"
+                      /></svg
+                  ></span>
+                  <span class="sr-only">Search Objects</span>
+                </button>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <main id="maincontent" role="main" class="flex-shrink-0">
+      <div class="container mt-4">
+        <!-- Button trigger modal -->
+        <button
+          type="button"
+          class="btn btn-primary float-right"
+          data-toggle="modal"
+          data-target="#operators"
+        >
+          Search Operators!
+        </button>
+        <!-- Modal -->
+        <div
+          class="modal fade"
+          id="operators"
+          tabindex="-1"
+          role="dialog"
+          aria-labelledby="modalLabel"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="modalLabel">
+                  Lunr Search Operators
+                </h5>
+                <button
+                  type="button"
+                  class="close"
+                  data-dismiss="modal"
+                  aria-label="Close"
+                >
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+                <ul>
+                  <li>
+                    Specific fields (e.g. title:foo, date:1911, subject:tree)
+                  </li>
+                  <li>Wildcards (e.g. foo*, *oo)</li>
+                  <li>Fuzzy match, helps with misspelling (e.g. foo~1)</li>
+                  <li>Boost term (e.g. foo^10)</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <h2 id="full-metadata-search">Full metadata search:</h2>
+
+        <div class="ml-3">
+          <input
+            type="text"
+            id="lunrSearch"
+            class="form-control"
+            placeholder="Enter your search term..."
+          />
+          <table id="lunrResults" class="table table-responsive"></table>
+        </div>
+
+        <div class="mt-3">
+          <p class="text-muted">
+            Fuzzy search powered by
+            <a href="https://lunrjs.com/" target="_blank" rel="noopener"
+              >Lunr.js</a
+            >. <em>May take a second to load large collections!</em>
+          </p>
+        </div>
+      </div>
+    </main>
+    <footer class="bg-dark pt-4 container-fluid mt-3">
+      <div class="row border-bottom border-white pb-4 mb-2">
+        <div class="col-md-7 px-4 mt-2">
+          <h4>
+            <a href="/beowulf-s/" class="text-white font-weight-normal"
+              >beowulf-s</a
+            >
+          </h4>
+          <p class="text-white">
+            <small
+              >The Beowulf-s project presents
+              <em>The Translations of Beowulf: A Critical Bibliography</em> 1903
+              as a digital collection to explore the texts and Tinker's
+              criticism.</small
+            >
+          </p>
+        </div>
+
+        <div class="col-md-5 mt-2 text-right">
+          <nav>
+            <ul class="nav nav-pills justify-content-end">
+              <li class="nav-item">
+                <a class="nav-link text-light" href="/beowulf-s/browse.html"
+                  >Browse</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light" href="/beowulf-s/timeline.html"
+                  >Timeline</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light" href="/beowulf-s/data.html"
+                  >Data</a
+                >
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light" href="/beowulf-s/about.html"
+                  >About</a
+                >
+              </li>
+            </ul>
+          </nav>
+        </div>
+      </div>
+
+      <div class="col-md-12 text-center pt-3 pb-1">
+        <p class="text-white">
+          <a href="https://github.com/evanwill/beowulf-s">evanwill</a> - 2021
+        </p>
+      </div>
+    </footer>
+    <!-- Optional JS for Bootstrap: jQuery first, then Bootstrap bundle JS -->
+    <script src="/beowulf-s/assets/lib/jquery-3.5.1.min.js"></script>
+    <script src="/beowulf-s/assets/lib/bootstrap.bundle.min.js"></script>
+    <!-- load other js -->
+    <script src="/beowulf-s/assets/lib/lazysizes.min.js" async></script>
+
+    <script src="/beowulf-s/assets/lib/lunr.min.js"></script>
+    <script src="/beowulf-s/assets/js/lunr-store.js"></script>
+    <script>
+      /* initialize lunr */
+      var idx = lunr(function () {
+        /* add index fields from config */
+        this.ref("id");
+
+        this.field("title");
+
+        this.field("date");
+
+        this.field("author");
+
+        this.field("citation");
+
+        //this.pipeline.remove(lunr.trimmer)
+
+        for (var item in store) {
+          this.add({
+            title: store[item]["title"],
+
+            date: store[item]["date"],
+
+            author: store[item]["author"],
+
+            citation: store[item]["citation"],
+
+            id: item,
+          });
+        }
+      });
+
+      /* search function */
+      function lunr_search() {
+        var resultdiv = $("#lunrResults");
+        var query = $("#lunrSearch").val(); //.toLowerCase();
+        /* basic search that supports operators */
+        var result = idx.search(query);
+        /* more fuzzy search, but doesn't support operators:
+  var result =
+    idx.query(function (q) {
+      query.split(lunr.tokenizer.separator).forEach(function (term) {
+        q.term(term, { boost: 100 })
+        if(query.lastIndexOf(" ") != query.length-1){
+          q.term(term, {  usePipeline: false, wildcard: lunr.Query.wildcard.TRAILING, boost: 10 })
+        }
+        if (term != ""){
+          q.term(term, {  usePipeline: false, editDistance: 1, boost: 1 })
+        }
+      })
+    });*/
+        resultdiv.empty();
+        resultdiv.prepend(
+          '<tr><td><h4 class="mt-3">' +
+            result.length +
+            " Result(s) found</h4></td></tr>"
+        );
+        for (var item in result) {
+          var ref = result[item].ref;
+          var searchitem =
+            "<tr>" +
+            '<td class="">' +
+            '<p class="h4"><a href="/beowulf-s/items/' +
+            store[ref].id +
+            '.html">' +
+            store[ref]["title"] +
+            "</a></p>" +
+            '<p class="ml-3">' +
+            store[ref]["date"] +
+            "<br> " +
+            "</p></td>" +
+            "</tr>";
+          resultdiv.append(searchitem);
+        }
+      }
+      /* init search box and get query string */
+      $(document).ready(function () {
+        $("input#lunrSearch").on("keyup", lunr_search);
+        if (window.location.search) {
+          var queryString = decodeURIComponent(
+            window.location.search.substring(1).split("=")[1]
+          );
+          $("input#lunrSearch").val(queryString);
+          lunr_search();
+        }
+      });
+    </script>
+
+    <script>
+      // When the user scrolls down from the top of the document, show the button
+      window.onscroll = function () {
+        if (
+          document.body.scrollTop > 500 ||
+          document.documentElement.scrollTop > 500
+        ) {
+          document.getElementById("scroll-to-top").style.display = "block";
+        } else {
+          document.getElementById("scroll-to-top").style.display = "none";
+        }
+      };
+      // scroll to top function
+      function scrollToTop() {
+        $("html, body").animate({ scrollTop: 0 }, 750);
+      }
+    </script>
+    <button
+      id="scroll-to-top"
+      type="button"
+      class="btn btn-link"
+      onclick="scrollToTop();"
+      title="Back to Top"
+      aria-label="Back to Top"
+    >
+      <svg class="bi icon-sprite" aria-hidden="true">
+        <use
+          xlink:href="/beowulf-s/assets/lib/bootstrap-icons.svg#arrow-up-square"
+          href="/beowulf-s/assets/lib/bootstrap-icons.svg#arrow-up-square"
+        ></use>
+      </svg>
+      <span class="sr-only">up arrow icon</span>
+    </button>
+  </body>
+</html>

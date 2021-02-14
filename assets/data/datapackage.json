@@ -1,0 +1,62 @@
+{
+    "profile": "data-package",
+    "name": "beowulf-s-data",
+    "title": "beowulf-s Data",
+    "description": "Metadata and data derived from beowulf-s. The Beowulf-s project presents &lt;em&gt;The Translations of Beowulf: A Critical Bibliography&lt;/em&gt; 1903 as a digital collection to explore the texts and Tinker&#39;s criticism.",
+    "keywords":  ["Beowulf"," Translation"],
+    "homepage": "https://evanwill.github.io/beowulf-s/",
+    "contributors": [
+        {
+            "title": "",
+            "path": "",
+            "role": "author"
+        }
+    ],
+    "image": "/beowulf-s/assets/img/collectionbuilder-logo.png",
+    "licenses": [
+        {
+            "name": "CC0-1.0",
+            "title": "CC0 1.0",
+            "path": "https://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ],
+    "resources": [
+         
+        {
+            "name": "facets-json",
+            "path": "facets.json",
+            "title": "beowulf-s Metadata Facets",
+            "description":"Unique values and counts of metadata facet fields.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        
+        
+        
+        
+        {
+            "name": "timeline-json",
+            "path": "timelinejs.json",
+            "title": "beowulf-s timeline metadata",
+            "description": "Time-based metadata formatted for TimelineJS or other applications.",
+            "format":"json",
+            "profile": "data-resource"
+        },
+        {
+            "name": "metadata-csv",
+            "path": "metadata.csv",
+            "title": "beowulf-s full metadata in csv",
+            "description": "Complete metadata export for beowulf-s objects.",
+            "format":"csv",
+            "profile":"data-resource"
+        },
+        {
+            "name": "metadata-json",
+            "path": "metadata.json",
+            "title": "beowulf-s full metadata in json",
+            "description": "Complete metadata export for beowulf-s objects.",
+            "format":"json",
+            "profile":"data-resource"
+        }
+    ]
+}
