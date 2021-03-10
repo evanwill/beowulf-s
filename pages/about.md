@@ -60,3 +60,5 @@ Here is a few resources:
 - [Electronic Beowulf 4.0](https://ebeowulf.uky.edu/){:target='_blank' rel='noopener'}, Kevin Kiernan, Emil Iacob, 2014
 - [Beowulf: Some Resources for Study](https://web.utk.edu/~rliuzza/Beowulf/index.htm){:target='_blank' rel='noopener'}, Roy M. Liuzza, 2016
 - [Beowulf (in Old English)](https://sourcebooks.fordham.edu/basis/beowulf-oe.asp){:target='_blank' rel='noopener'}, Internet Medieval Sourcebook, Fordham University
+- [Old English Online](https://oldenglish.info/){:target='_blank' rel='noopener'}, resources to learn Old English
+ 
