@@ -1,6 +1,7 @@
 # beowulf-s
 
 > a collection of beowulf translations.
+> <https://evanwill.github.io/beowulf-s/>
 
 The `beowulf-s` project started by parsing the content of Chauncey B. Tinker, *The Translations of Beowulf: A Critical Bibliography* 1903 into tabular metadata.
 Tinker's work is a list of translations of Beowulf with introductions, extracts, and criticism.
